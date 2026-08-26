@@ -1,4 +1,4 @@
-# Prime Harvest Digest
+# CEO Standup
 
 A weekly, fully automated "leadership meeting minutes" generator for PRIMEHARVEST — a fictitious CPG company I invented as a strategy-practice exercise. I play CEO; the script researches real CPG/retail industry news via Claude's web search tool, role-plays a full leadership team's take on it, and writes the result straight to a formatted document every Sunday morning. It's a way to keep commercial-strategy thinking sharp against a fresh competitive narrative every week, without spending my own research time on it.
 
